@@ -1,3 +1,4 @@
+pyrofork==2.3.45
 pyrogram==2.0.83
 pyromod
 humanize
